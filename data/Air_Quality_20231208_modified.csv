@@ -1,4 +1,4 @@
-"Unique ID","Indicator ID","Name","Measure","Measure Info","Geo_Type_Name","Geo Join ID","Geo Place Name","Time Period","Start_Date","Data Value","Message"
+"Unique ID","Indicator ID","Name","Measure","Measure Info","Geo_Type_Name","Geo Join ID","Geo_Place_Name","Time Period","Start_Date","Data Value","Message"
 172653,375,"Nitrogen dioxide (NO2)","Mean","ppb","UHF34",203,"Bedford Stuyvesant - Crown Heights","Annual Average 2011","12/01/2010",25.3,NA
 172585,375,"Nitrogen dioxide (NO2)","Mean","ppb","UHF34",203,"Bedford Stuyvesant - Crown Heights","Annual Average 2009","12/01/2008",26.93,NA
 336637,375,"Nitrogen dioxide (NO2)","Mean","ppb","UHF34",204,"East New York","Annual Average 2015","01/01/2015",19.09,NA
